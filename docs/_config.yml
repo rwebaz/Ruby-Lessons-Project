@@ -19,7 +19,7 @@ lang: "en-US"
 encoding: UTF-8
 title: "Ruby Lessons Project"
 tagline: "A GitHub repo of Lessons and Articles that emphasize the Ruby development engine"
-description: "The Zazzle Hempaz Project, or RLP is a GitHub repo of Lessons and Articles emphasizing the Ruby development engine."
+description: "The Ruby Lessons Project, or RLP is a GitHub repo of Lessons and Articles emphasizing the Ruby development engine."
 #
 twitter:
     username: "mminail"
